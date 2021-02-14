@@ -1,8 +1,9 @@
-# TODO-APP WITH REACT.js　　
+# TODO-APP With React.js　　
 
 Check out  [here](https://shio-max.github.io/todo-app/)
 
-こちらのYoutubu動画を参考に、　https://youtu.be/pCA4qpQDZD8 
+Reactを勉強するのに、こちらのYoutubu動画　https://youtu.be/pCA4qpQDZD8
+を参考に、作成しました。
 
 ＜機能＞  
 ・todoリストの新規登録   
