@@ -7,6 +7,7 @@ Reactを勉強するのに、こちらのYoutubu動画　https://youtu.be/pCA4qp
 
 ＜機能＞  
 ・todoリストの新規登録   
+・空欄でのsubmitでalert表示
 ・リストの削除   
 ・リスト済み設定のつけ外し   
 ・リスト済みかどうかのカテゴリ分け    

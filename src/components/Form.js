@@ -7,6 +7,7 @@ const Form = ({ inputText, setInputText, todos, setTodos, setStatus }) => {
   const submitHandler = (e) => {
     //現在のURLにForm内容が送信され、結果的にページのリロードが起きるデフォルトの動作キャンセル
     e.preventDefault();
+    if (inputText === "") return alert("Your textarea is empty!");
     setTodos([
       ...todos,
       { text: inputText, completed: false, id: Math.random() * 1000 },
