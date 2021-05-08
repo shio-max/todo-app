@@ -1,6 +1,6 @@
 # TodoApp_react　　
 
-Check out  [here](https://shio-max.github.io/todo-app/)
+Check out  [here]( https://shio-max.github.io/TodoApp_react/)
 
 Reactを勉強するのに、こちらのYoutubu動画　https://youtu.be/pCA4qpQDZD8
 を参考に、作成しました。
