@@ -1,8 +1,8 @@
 {
-  "name": "todo-app",
+  "name": "todo-app_react",
   "version": "0.1.0",
   "private": true,
-  "homepage": " https://shio-max.github.io/todo-app/",
+  "homepage": " https://shio-max.github.io/TodoApp_react/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
