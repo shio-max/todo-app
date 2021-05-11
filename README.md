@@ -1,17 +1,19 @@
 # TodoApp_react　　
 
-Check out  [here]( https://shio-max.github.io/TodoApp_react/)
+<h3>This is a simple todo-app with React.js</h3>
 
-Reactを勉強するのに、こちらのYoutubu動画　https://youtu.be/pCA4qpQDZD8
-を参考に、作成しました。
+[Check out here]( https://shio-max.github.io/TodoApp_react/)
 
-＜機能＞  
-・todoリストの新規登録   
-・空欄でのsubmitでalert表示
-・リストの削除   
-・リスト済み設定のつけ外し   
-・リスト済みかどうかのカテゴリ分け    
-・LocalStorage機能   
+
+
+＜What you can＞    
+・todoリストの新規登録・削除  
+・フォームのバリデーション  
+・カテゴリ分け  
+・LocalStorage (ブラウザで一時的にデータを保持)  
 
 ＜React.js＞  
-関数コンポーネント、useState,useEffectを使用。  
+関数コンポーネント、Reach Hookを使用。  
+
+<References>
+https://youtu.be/pCA4qpQDZD8
